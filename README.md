@@ -152,7 +152,6 @@ ClawManager includes built-in vendor templates for:
 - Groq
 - Together AI
 - Fireworks AI
-- xAI
 - Perplexity
 - 01.AI
 - MiniMax
